@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Title: iDEAL Simulator - iDEAL Professional / Advanced / Zelfbouw - v3 config
+ * Title: iDEAL Simulator - iDEAL Professional / Advanced / Zelfbouw - v3 - Config
  * Description:
  * Copyright: Copyright (c) 2005 - 2015
  * Company: Pronamic
