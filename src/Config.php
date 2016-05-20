@@ -11,7 +11,7 @@
  */
 class Pronamic_WP_Pay_Gateways_IDealSimulator_IDealAdvancedV3_Config extends Pronamic_WP_Pay_Gateways_IDealAdvancedV3_Config {
 	public function get_payment_server_url() {
-		return 'https://www.ideal-simulator.nl/professional/';
+		return 'https://www.ideal-checkout.nl/simulator/';
 	}
 
 	public function get_certificates() {
