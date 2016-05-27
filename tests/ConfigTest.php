@@ -13,11 +13,9 @@ class Pronamic_WP_Pay_Gateways_IDealSimulator_IDealAdvancedV3_ConfigTest extends
 	public function test_config() {
 		$config = new Pronamic_WP_Pay_Gateways_IDealSimulator_IDealAdvancedV3_Config();
 
-		$expected = 'https://www.ideal-simulator.nl/professional/';
-
 		$url = $config->get_payment_server_url();
 
-		$this->assertEquals( $expected, $url );
+		$this->assertEquals( 'https://www.ideal-checkout.nl/simulator/', $url );
 	}
 
 	public function test_certificates() {
