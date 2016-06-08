@@ -7,7 +7,8 @@
  * Company: Pronamic
  *
  * @author Remco Tolsma
- * @version 1.0.0
+ * @version 1.0.2
+ * @since 1.0.0
  */
 class Pronamic_WP_Pay_Gateways_IDealSimulator_IDealAdvancedV3_Config extends Pronamic_WP_Pay_Gateways_IDealAdvancedV3_Config {
 	public function get_payment_server_url() {
